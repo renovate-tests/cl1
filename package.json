@@ -2,7 +2,7 @@
   "name": "cl1",
   "version": "0.0.1",
   "dependencies": {
-    "jest": "22.4.0"
+    "jest": "22.4.3"
   },
   "renovate": {}
 }
